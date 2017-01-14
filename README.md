@@ -1,9 +1,9 @@
-# independentstudy
+#independentstudy
 ***
 
 ##To Do List:
 
-* Data Management
+###Data Management
 
 | Readings / Tasks | | 
 | -------- | ----------- |
@@ -13,7 +13,7 @@
 | Read [Getting Started With Markdown][3] | Y |
 
  
-*  Data Manipulation
+###Data Manipulation
 
 | Readings / Tasks | | 
 | ---------------- | --- |
@@ -22,7 +22,7 @@
 | | |
 
 
-* Installing QGIS and Georeferencing in GIS
+###Installing QGIS and Georeferencing in GIS
 
 | Readings / Tasks | | 
 | ---------------- | --- |
@@ -31,7 +31,7 @@
 | | |
 
 
-* Building a Website
+###Building a Website
 
 | Readings / Tasks | | 
 | ---------------- | --- |
@@ -40,7 +40,7 @@
 | | |
 
 
-* Python if there's time
+###Python if there's time
 
 | Readings / Tasks | | 
 | ---------------- | --- |
