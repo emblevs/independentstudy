@@ -1,18 +1,50 @@
 # independentstudy
+***
 
 ##To Do List:
 
-1. Data Management
-  * Read [Preserving Your Research Data][1]
-  * Read [Tidy Data][2]
-- http://vita.had.co.nz/papers/tidy-data.p
+* Data Management
 
-2. Data Manipulation
-3. Installing QGIS and Georeferencing in GIS
-4. Building a Website
-5. Python if there's time
+| Readings / Tasks | | 
+| -------- | ----------- |
+| Read [Preserving Your Research Data][1] | ? |
+| Read [Tidy Data][2] | ? | 
+| Think of a file system and schema | ? |
+| Read [Getting Started With Markdown] | Y |
+ 
+*  Data Manipulation
 
+| Readings / Tasks | | 
+| ---------------- | --- |
+| | | 
+| | |
+| | |
+
+* Installing QGIS and Georeferencing in GIS
+
+| Readings / Tasks | | 
+| ---------------- | --- |
+| | | 
+| | |
+| | |
+
+* Building a Website
+
+| Readings / Tasks | | 
+| ---------------- | --- |
+| | | 
+| | |
+| | |
+
+* Python if there's time
+
+| Readings / Tasks | | 
+| ---------------- | --- |
+| | | 
+| | |
+| | |
 
 
 [1]: http://programminghistorian.org/lessons/preserving-your-research-data
 [2]: http://vita.had.co.nz/papers/tidy-data.pdf
+[3]: http://programminghistorian.org/lessons/getting-started-with-markdown
