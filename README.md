@@ -10,7 +10,8 @@
 | Read [Preserving Your Research Data][1] | ? |
 | Read [Tidy Data][2] | ? | 
 | Think of a file system and schema | ? |
-| Read [Getting Started With Markdown] | Y |
+| Read [Getting Started With Markdown][3] | Y |
+
  
 *  Data Manipulation
 
@@ -20,6 +21,7 @@
 | | |
 | | |
 
+
 * Installing QGIS and Georeferencing in GIS
 
 | Readings / Tasks | | 
@@ -28,6 +30,7 @@
 | | |
 | | |
 
+
 * Building a Website
 
 | Readings / Tasks | | 
@@ -35,6 +38,7 @@
 | | | 
 | | |
 | | |
+
 
 * Python if there's time
 
