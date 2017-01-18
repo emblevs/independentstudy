@@ -7,19 +7,19 @@
 
 | Readings / Tasks | | 
 | -------- | ----------- |
-| Read [Preserving Your Research Data][1] | ? |
-| Read [Tidy Data][2] | ? | 
-| Think of a file system and schema | ? |
+| Read [Preserving Your Research Data][1] | Y |
+| Read [Tidy Data][2] | Y | 
+| Think of a file system and schema | Y |
 | Read [Getting Started With Markdown][3] | Y |
 
  
-###Data Manipulation
+###Data Construction
 
 | Readings / Tasks | | 
 | ---------------- | --- |
-| | | 
-| | |
-| | |
+| Get the Map | Y | 
+| Find the Census Data | Y |
+| Build .csv with ward level data | |
 
 
 ###Installing QGIS and Georeferencing in GIS
