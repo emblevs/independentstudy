@@ -50,7 +50,7 @@
 
 ### Timeline
 | Reading / Tasks | |
-| --------------- | - |
+| --------------- | --- |
 | Look at timeline for web | |
 | Put 10 dates in the timeline | |
 | Find media for timeline | |
