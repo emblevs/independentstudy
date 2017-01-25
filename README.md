@@ -17,9 +17,9 @@
 
 | Readings / Tasks | | 
 | ---------------- | --- |
-| Get the Map | Y | 
+| Get the Map | Y (Got 2 Maps) | 
 | Find the Census Data | Y |
-| Build .csv with ward level data | |
+| Build .csv with ward level data | Y |
 
 
 ###Installing QGIS and Georeferencing in GIS
