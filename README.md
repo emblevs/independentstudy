@@ -48,6 +48,13 @@
 | | |
 | | |
 
+### Timeline
+| Reading / Tasks | |
+| --------------- | - |
+| Look at timeline for web | |
+| Put 10 dates in the timeline | |
+| Find media for timeline | |
+
 
 [1]: http://programminghistorian.org/lessons/preserving-your-research-data
 [2]: http://vita.had.co.nz/papers/tidy-data.pdf
