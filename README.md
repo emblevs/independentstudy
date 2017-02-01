@@ -52,8 +52,8 @@
 | Reading / Tasks | |
 | --------------- | --- |
 | Look at timeline for web | Y (1/30/17) |
-| Put 10 dates in the timeline | Y (1/30/17) |
-| Find media for timeline | |
+| Put 10 dates in the timeline | Y (1/31/17) |
+| Find media for timeline | Y (2/1/17)|
 
 
 [1]: http://programminghistorian.org/lessons/preserving-your-research-data
