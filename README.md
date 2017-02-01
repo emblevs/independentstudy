@@ -26,8 +26,8 @@
 
 | Readings / Tasks | | 
 | ---------------- | --- |
-| | | 
-| | |
+| Figure out QGIS | Y (2/1/17) | 
+| Build Map | |
 | | |
 
 
