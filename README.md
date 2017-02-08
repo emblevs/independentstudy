@@ -28,16 +28,17 @@
 | ---------------- | --- |
 | Figure out QGIS | Y (2/1/17) | 
 | Build Map | |
-| | |
+| Map Census Data | |
+| Map parade routes | | 
 
 
 ###Building a Website
 
 | Readings / Tasks | | 
 | ---------------- | --- |
-| | | 
-| | |
-| | |
+| Wireframing the site | Y | 
+| Fill out timeline | |
+| Chart the parades | |
 
 
 ###Python if there's time
