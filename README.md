@@ -36,7 +36,7 @@
 
 | Readings / Tasks | | 
 | ---------------- | --- |
-| Wireframing the site | Y | 
+| Wireframing the site | Y (2/8/2017) | 
 | Fill out timeline | |
 | Chart the parades | |
 
