@@ -28,6 +28,7 @@
 | ---------------- | --- |
 | Figure out QGIS | Y (2/1/17) | 
 | Build Map | |
+| Polygons and Lines | |
 | Map Census Data | |
 | Map parade routes | | 
 | Create spreadsheet for mapping | |
