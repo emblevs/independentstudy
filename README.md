@@ -30,6 +30,8 @@
 | Build Map | |
 | Map Census Data | |
 | Map parade routes | | 
+| Create spreadsheet for mapping | |
+| Yell at GQIS with Lauren | |
 
 
 ###Building a Website
@@ -38,7 +40,8 @@
 | ---------------- | --- |
 | Wireframing the site | Y (2/8/2017) | 
 | Fill out timeline | |
-| Chart the parades | |
+| Chart the parades | Y (2/14-2/15/2017) |
+| Create descriptions for the parades | | 
 
 
 ###Python if there's time
