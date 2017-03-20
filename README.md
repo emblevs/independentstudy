@@ -1,9 +1,9 @@
-#independentstudy
+# independentstudy
 ***
 
-##To Do List:
+## To Do List:
 
-###Data Management
+### Data Management
 
 | Readings / Tasks | | 
 | -------- | ----------- |
@@ -13,7 +13,7 @@
 | Read [Getting Started With Markdown][3] | Y (1/13/17)|
 
  
-###Data Construction
+### Data Construction
 
 | Readings / Tasks | | 
 | ---------------- | --- |
@@ -22,7 +22,7 @@
 | Build .csv with ward level data | Y (1/20/17)|
 
 
-###Installing QGIS and Georeferencing in GIS
+### Installing QGIS and Georeferencing in GIS
 
 | Readings / Tasks | | 
 | ---------------- | --- |
@@ -35,7 +35,7 @@
 | Yell at GQIS with Lauren | |
 
 
-###Building a Website
+### Building a Website
 
 | Readings / Tasks | | 
 | ---------------- | --- |
@@ -45,7 +45,7 @@
 | Create descriptions for the parades | | 
 
 
-###Python if there's time
+### Python if there's time
 
 | Readings / Tasks | | 
 | ---------------- | --- |
