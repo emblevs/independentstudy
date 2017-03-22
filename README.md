@@ -27,12 +27,12 @@
 | Readings / Tasks | | 
 | ---------------- | --- |
 | Figure out QGIS | Y (2/1/17) | 
-| Build Map | |
-| Polygons and Lines | |
-| Map Census Data | |
-| Map parade routes | | 
-| Create spreadsheet for mapping | |
-| Yell at GQIS with Lauren | |
+| Build Map | Y (2/1/17) - (3/21/17) |
+| Polygons and Lines | Y (3/15/17) |
+| Map Census Data | Y (3/1/17) |
+| Map parade routes | Y (3/1/17) | 
+| Create spreadsheet for mapping | Y (3/1/17) |
+| Yell at GQIS with Lauren | Y (2/22/2017) |
 
 
 ### Building a Website
@@ -40,9 +40,10 @@
 | Readings / Tasks | | 
 | ---------------- | --- |
 | Wireframing the site | Y (2/8/2017) | 
-| Fill out timeline | |
+| Fill out timeline | Y (ongoing) |
 | Chart the parades | Y (2/14-2/15/2017) |
 | Create descriptions for the parades | | 
+| Create a website | [Y (3/20/2017)][4] |
 
 
 ### Python if there's time
@@ -64,3 +65,4 @@
 [1]: http://programminghistorian.org/lessons/preserving-your-research-data
 [2]: http://vita.had.co.nz/papers/tidy-data.pdf
 [3]: http://programminghistorian.org/lessons/getting-started-with-markdown
+[4]: https://paradinginthestreet.wordpress.com/
