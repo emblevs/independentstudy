@@ -33,6 +33,7 @@
 | Map parade routes | Y (3/1/17) | 
 | Create spreadsheet for mapping | Y (3/1/17) |
 | Yell at GQIS with Lauren | Y (2/22/2017) |
+| Put map into website | Y (4/3/17) |
 
 
 ### Building a Website
@@ -40,9 +41,10 @@
 | Readings / Tasks | | 
 | ---------------- | --- |
 | Wireframing the site | Y (2/8/2017) | 
-| Fill out timeline | Y (ongoing) |
+| Fill out timeline | Y (Feb-March 2017) |
+| Put timeline on site | Y (4/3/17) |
 | Chart the parades | Y (2/14-2/15/2017) |
-| Create descriptions for the parades | | 
+| Create descriptions for the parades | Ongoing | 
 | Create a website | [Y (3/20/2017)][4] |
 | Build up said website | Ongoing Process |
 
