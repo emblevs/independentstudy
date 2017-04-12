@@ -44,6 +44,7 @@
 | Chart the parades | Y (2/14-2/15/2017) |
 | Create descriptions for the parades | | 
 | Create a website | [Y (3/20/2017)][4] |
+| Build up said website | Ongoing Process |
 
 
 ### Python if there's time
@@ -65,4 +66,4 @@
 [1]: http://programminghistorian.org/lessons/preserving-your-research-data
 [2]: http://vita.had.co.nz/papers/tidy-data.pdf
 [3]: http://programminghistorian.org/lessons/getting-started-with-markdown
-[4]: https://paradinginthestreet.wordpress.com/
+[4]: https://paradinginthestreet.com/
